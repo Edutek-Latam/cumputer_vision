@@ -1,7 +1,7 @@
 import cv2 
 import numpy as np
 
-gato = cv2.imread('img/Cat03.jpg')
+gato = cv2.imread('img/fruta2.jpg')
 
 kernel_3x3 = np.ones((3,3))/(3*3)
 #print(kernel_3x3)
